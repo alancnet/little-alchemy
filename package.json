@@ -1,0 +1,30 @@
+{
+  "name": "little-alchemy",
+  "version": "1.0.0",
+  "description": "JavaScript version of Little Alchemy",
+  "main": "dist/little-alchemy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alancnet/little-alchemy.git"
+  },
+  "keywords": [
+    "little",
+    "alchemy",
+    "javascript",
+    "es6"
+  ],
+  "author": "Alan Colon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alancnet/little-alchemy/issues"
+  },
+  "homepage": "https://github.com/alancnet/little-alchemy#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-babel": "^5.0.1",
+    "load-grunt-tasks": "^3.2.0"
+  }
+}
