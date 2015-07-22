@@ -1,6 +1,6 @@
 {
   "name": "little-alchemy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript version of Little Alchemy",
   "main": "dist/little-alchemy.js",
   "scripts": {
